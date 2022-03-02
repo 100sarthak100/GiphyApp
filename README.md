@@ -1,4 +1,4 @@
-# Movies App | React Native
+# Giphy App | React Native
 
 <p float="left" align="middle">
   <img src="images/pic2.jpg" width="30%" />
